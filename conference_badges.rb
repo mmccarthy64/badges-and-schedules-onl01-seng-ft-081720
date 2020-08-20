@@ -9,3 +9,6 @@ def batch_badge_creator(speakers)
   newarray = []
   speakers.each do |name|
     newarray.push("Hello, my name is #{name}.")
+  end
+  return newarray
+end
