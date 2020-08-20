@@ -1,6 +1,5 @@
 # Write your code here.
-speakers = [Edsger, Ada, Charles, Alan, Grace, Linus, Matz]
-
+name = "Arel"
 def badge_maker(name)
   puts "Hello, my name is #{name}."
 end
