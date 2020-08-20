@@ -16,4 +16,4 @@ end
 def assign_rooms(attendees)
   attendees_badges = []
   count = 1
-  "Hello, #{name}! You'll be assigned to room #{count}!")
+  return "Hello, #{name}! You'll be assigned to room #{count}!")
