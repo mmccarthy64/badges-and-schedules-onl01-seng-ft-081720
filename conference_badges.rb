@@ -15,4 +15,5 @@ end
 
 def assign_rooms(attendees)
   attendees_badges = []
+  count = 1
   
