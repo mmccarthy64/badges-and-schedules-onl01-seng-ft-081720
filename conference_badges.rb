@@ -6,4 +6,6 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(speakers)
-  
+  newarray = []
+  speakers.each do |name|
+    
