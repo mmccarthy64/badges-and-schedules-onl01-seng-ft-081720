@@ -16,5 +16,6 @@ end
 def assign_rooms(attendees)
   attendees_badges = []
   count = 1
+  attendees.each do |name|
   attendees_badges.push("Hello, #{name}! You'll be assigned to room #{count}!")
   
